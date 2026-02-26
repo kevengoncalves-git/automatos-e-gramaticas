@@ -28,10 +28,13 @@ Contém scripts independentes para o processamento de gramáticas formais G=(N,T
 Conversão de GR: Transforma Gramáticas Regulares em seus AFDs equivalentes.
 Simplificação de GLC: Analisa Gramáticas Livres de Contexto e realiza a simplificação passo a passo para aproximá-la de uma Gramática Linear.
 
-- gerando_arvore.py: passos 6, 9 e 10
+- gerando_arvore.py: passos 6 e 9
 Classificação: Identifica se a gramática é Regular (GR) ou Livre de Contexto (GLC).
 Árvore de Derivação: Gera a árvore para uma palavra w específica.
 Pseudocódigo: Gera o código do reconhecedor baseado na gramática fornecida.
+
+- pseudocodigo_do_reconhecedor.py: passo 10
+  Gera o Pseudo-código do reconhecedor da linguagem.
 
 # Como Executar
 
